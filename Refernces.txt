@@ -1,0 +1,26 @@
+References:
+
+http://scikit-learn.org/stable/documentation.html
+
+http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
+
+https://datascience.stackexchange.com/questions/10773/how-does-selectkbest-work
+
+http://scikit-learn.org/stable/modules/pipeline.html
+
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+
+https://stackoverflow.com/questions/3777861/setting-y-axis-limit-in-matplotlib
+
+https://github.com/zelite/Identify-fraud-from-enron-email/blob/master/final_project/final_project.ipynb
+
+https://stackoverflow.com/questions/12996220/using-readlines-in-python-first-time
+
+Udacity Forums
+
+Udacity Mentor
+
+Udacity Mini Projects
+
+
+
